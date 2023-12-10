@@ -1,6 +1,7 @@
-# My Awesome Website
+# Ihsane Hadeg
 
 Welcome to my awesome website! This is a simple template to get you started.
+![Smog Image](smog-image.jpg)
 
 ## Table of Contents
 
